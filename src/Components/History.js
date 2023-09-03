@@ -42,6 +42,7 @@ const History = ({word}) => {
                                     <div>
                                         {d.definitions.map((p) => (
                                             <span>{p.definition}</span>
+                                            
                                         ))}
                                     </div>
                                 </div>
