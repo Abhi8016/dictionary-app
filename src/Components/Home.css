@@ -1,0 +1,47 @@
+button{
+    background-color: rgb(45,44,45);
+    border: none;
+    color: white;
+    width: 90px;
+    border-radius: 3px;
+}
+
+input{
+    outline: none;
+    width: 300px;
+    height: 30px;
+    border-radius: 3px;
+    border: none;
+}
+.card-1{
+    display: flex;
+    justify-content: center;
+    padding: 40px;
+    /* width: 100vw; */
+    /* border: 1px solid blue; */
+}
+
+.card-2{
+    /* border: 2px solid green; */
+    background-color: rgb(255, 255, 255);
+    margin: 20px;
+    padding: 10px;
+    border-radius: 4px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    /* height: 100vh; */
+}
+
+.loder{
+    margin-top: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.card-holder{
+    height: 100%;
+}
+
+/* img{
+    height: 400px;
+    width: 500px;
+} */
